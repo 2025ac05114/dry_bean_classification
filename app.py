@@ -52,7 +52,7 @@ if uploaded_file is not None:
         "EquivDiameter",
         "Extent",
         "Solidity",
-        "roundness",
+        "Roundness",
         "Compactness",
         "ShapeFactor1",
         "ShapeFactor2",
