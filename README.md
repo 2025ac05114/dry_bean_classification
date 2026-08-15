@@ -84,20 +84,20 @@ Precision, Recall and F1 use weighted averaging.
 | Model | Accuracy | AUC | Precision | Recall | F1 | MCC |
 |---|---:|---:|---:|---:|---:|---:|
 | Logistic Regression | 0.9207 | 0.9948 | 0.9215 | 0.9207 | 0.9209 | 0.9042 |
-| Decision Tree | 0.8920 | 0.9450 | 0.8917 | 0.8920 | 0.8916 | 0.8696 |
+| Decision Tree | 0.8917 | 0.9448 | 0.8912 | 0.8917 | 0.8913 | 0.8691 |
 | KNN | 0.9166 | 0.9833 | 0.9174 | 0.9166 | 0.9168 | 0.8992 |
 | Naive Bayes | 0.7639 | 0.9672 | 0.7654 | 0.7639 | 0.7615 | 0.7154 |
-| Random Forest | 0.9203 | 0.9927 | 0.9205 | 0.9203 | 0.9203 | 0.9036 |
+| Random Forest | 0.9218 | 0.9929 | 0.9219 | 0.9218 | 0.9217 | 0.9054 |
 
 ## Observations
 
 ### Logistic Regression
 
-Logistic Regression achieved an accuracy of 0.9207, AUC of 0.9948, F1 score of 0.9209 and MCC of 0.9042. It ranked 1 for accuracy and 1 for F1 score among the five implemented models.
+Logistic Regression achieved an accuracy of 0.9207, AUC of 0.9948, F1 score of 0.9209 and MCC of 0.9042. It ranked 2 for accuracy and 2 for F1 score among the five implemented models.
 
 ### Decision Tree
 
-Decision Tree achieved an accuracy of 0.8920, AUC of 0.9450, F1 score of 0.8916 and MCC of 0.8696. It ranked 4 for accuracy and 4 for F1 score among the five implemented models.
+Decision Tree achieved an accuracy of 0.8917, AUC of 0.9448, F1 score of 0.8913 and MCC of 0.8691. It ranked 4 for accuracy and 4 for F1 score among the five implemented models.
 
 ### KNN
 
@@ -109,16 +109,16 @@ Naive Bayes achieved an accuracy of 0.7639, AUC of 0.9672, F1 score of 0.7615 an
 
 ### Random Forest
 
-Random Forest achieved an accuracy of 0.9203, AUC of 0.9927, F1 score of 0.9203 and MCC of 0.9036. It ranked 2 for accuracy and 2 for F1 score among the five implemented models.
+Random Forest achieved an accuracy of 0.9218, AUC of 0.9929, F1 score of 0.9217 and MCC of 0.9054. It ranked 1 for accuracy and 1 for F1 score among the five implemented models.
 
 ### Overall Winner
 
 Using the mean of the six required evaluation metrics as the overall score
 (the assignment does not prescribe a separate winner-selection rule),
-**Logistic Regression** is the overall winner for this test set.
+**Random Forest** is the overall winner for this test set.
 
 Its aggregate score across Accuracy, AUC, Precision, Recall, F1 and MCC is
-**0.9305**.
+**0.9309**.
 
 ## Project Structure
 
