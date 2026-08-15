@@ -91,25 +91,13 @@ Precision, Recall and F1 use weighted averaging.
 
 ## Observations
 
-### Logistic Regression
-
-Logistic Regression achieved an accuracy of 0.9207, AUC of 0.9948, F1 score of 0.9209 and MCC of 0.9042. It ranked 2 for accuracy and 2 for F1 score among the five implemented models.
-
-### Decision Tree
-
-Decision Tree achieved an accuracy of 0.8917, AUC of 0.9448, F1 score of 0.8913 and MCC of 0.8691. It ranked 4 for accuracy and 4 for F1 score among the five implemented models.
-
-### KNN
-
-KNN achieved an accuracy of 0.9166, AUC of 0.9833, F1 score of 0.9168 and MCC of 0.8992. It ranked 3 for accuracy and 3 for F1 score among the five implemented models.
-
-### Naive Bayes
-
-Naive Bayes achieved an accuracy of 0.7639, AUC of 0.9672, F1 score of 0.7615 and MCC of 0.7154. It ranked 5 for accuracy and 5 for F1 score among the five implemented models.
-
-### Random Forest
-
-Random Forest achieved an accuracy of 0.9218, AUC of 0.9929, F1 score of 0.9217 and MCC of 0.9054. It ranked 1 for accuracy and 1 for F1 score among the five implemented models.
+| ML Model Name | Observation about model performance |
+|---|---|
+| Logistic Regression | Logistic Regression achieved an accuracy of 0.9207, AUC of 0.9948, F1 score of 0.9209 and MCC of 0.9042. It ranked 2 for accuracy and 2 for F1 score among the five implemented models. |
+| Decision Tree | Decision Tree achieved an accuracy of 0.8917, AUC of 0.9448, F1 score of 0.8913 and MCC of 0.8691. It ranked 4 for accuracy and 4 for F1 score among the five implemented models. |
+| KNN | KNN achieved an accuracy of 0.9166, AUC of 0.9833, F1 score of 0.9168 and MCC of 0.8992. It ranked 3 for accuracy and 3 for F1 score among the five implemented models. |
+| Naive Bayes | Naive Bayes achieved an accuracy of 0.7639, AUC of 0.9672, F1 score of 0.7615 and MCC of 0.7154. It ranked 5 for accuracy and 5 for F1 score among the five implemented models. |
+| Random Forest | Random Forest achieved an accuracy of 0.9218, AUC of 0.9929, F1 score of 0.9217 and MCC of 0.9054. It ranked 1 for accuracy and 1 for F1 score among the five implemented models. |
 
 ### Overall Winner
 
