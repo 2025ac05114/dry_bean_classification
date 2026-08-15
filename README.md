@@ -156,5 +156,6 @@ the confusion matrix and classification report.
 
 ## Deployment
 
-The Streamlit application is intended to be deployed using Streamlit
-Community Cloud from the GitHub repository. https://2025ac05114-dry-bean-classification-app-mh5iaz.streamlit.app/
+The Streamlit application has been deployed using Streamlit Community Cloud.
+
+**Live App:** https://2025ac05114-dry-bean-classification-app-mh5iaz.streamlit.app/
